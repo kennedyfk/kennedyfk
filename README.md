@@ -7,7 +7,7 @@
 </div>
 
 ##
-<div align="center" margin-bottom="205"> 
+<div align="center"> 
   <div> 
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -19,7 +19,7 @@
 
 ##
 
-<div align="center"> 
+<div align="center" height="2005"> 
   <div class="tecnologias"> 
       <a href="https://github.com/kennedyfk">
     <img align="center" alt="Kennedy-vscode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
