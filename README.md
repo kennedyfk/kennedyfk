@@ -27,8 +27,20 @@
   <img align="center" alt="Kennedy-r" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
 </div>
 
-<div class="rede-social"> 
-    <a href="https://github.com/kennedyfk">
-  <img align="center" alt="Kennedy-linkedin" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<div> 
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/telegram-28A8E9?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-GitHub" height="25" src="https://img.shields.io/badge/gitHub-EC4F33?style=for-the-badge&logo=github&logoColor=white"></a>
+
+  
+</div>
+<div>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Power_Bi-F1C911?style=for-the-badge&logo=power-bi&logoColor=white"></a>
+  <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/PL/SQL-880C4B?style=for-the-badge&?logo=data:https://github.com/kennedyfk/kennedyfk/img/sql&logoColor=white"></a>
+
   
 </div>
