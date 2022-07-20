@@ -1,4 +1,4 @@
-## Oi, eu sou o Kennedy Freire!
+## Oi, eu sou o Kennedy Freire
 <div align="center">
   <a href="https://github.com/kennedyfk">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kennedyfk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=30,240b36,1f4037&text_color=fff&title_color=fff&custom_title=Status GitHub do Kennedy Freire&hide_border=hide"/>
