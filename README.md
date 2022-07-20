@@ -7,7 +7,7 @@
 </div>
 
 ##
-<div align="center"> 
+<div align="center" margin-bottom="205"> 
   <div> 
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -18,6 +18,7 @@
 </div>
 
 ##
+
 <div align="center"> 
   <div class="tecnologias"> 
       <a href="https://github.com/kennedyfk">
@@ -33,6 +34,7 @@
     <a href="https://github.com/kennedyfk">
     <img align="center" alt="Kennedy-r" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
   </div>
+  
   <div>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
