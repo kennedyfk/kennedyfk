@@ -19,7 +19,7 @@
 
 ##
 
-<div align="center" height="2005"> 
+<div align="center"> 
   <div class="tecnologias"> 
       <a href="https://github.com/kennedyfk">
     <img align="center" alt="Kennedy-vscode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
