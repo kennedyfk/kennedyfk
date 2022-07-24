@@ -13,8 +13,7 @@
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/email-28A8E9?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-GitHub" height="25" src="https://img.shields.io/badge/gitHub-EC4F33?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/email-1f4037?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
   </div>
 </div>
 
