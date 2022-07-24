@@ -34,7 +34,7 @@
     <a href="https://github.com/kennedyfk">
     <img align="center" alt="Kennedy-r" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
   </div>
-  
+ 
   <div>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-VBA" height="25" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
