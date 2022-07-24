@@ -6,8 +6,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyfk&layout=compact&langs_count=7&theme=tokyonight&bg_color=330,1f4037,240b36&text_color=fff&title_color=fff&custom_title=Linguagens mais usadas&hide_border=hide"/></a>
    
 </div>
-
-##
 <div align="center"> 
   <div> 
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -50,6 +48,6 @@
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-VBA" height="25" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Power-Bi" height="25" src="https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-SQL" height="25" src="https://img.shields.io/badge/PL/SQL-880C4B?style=for-the-badge&?logo=data:https://github.com/kennedyfk/kennedyfk/img/sql&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-SQL" height="25" src="https://img.shields.io/badge/PL/SQL-880C4B?style=for-the-badge&logo=Databricks&logoColor=white"></a>
   </div>
 </div>
