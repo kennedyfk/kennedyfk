@@ -8,23 +8,13 @@
 </div>
 <div align="center"> 
   <div> 
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/email-1f4037?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/kennedyfreire/" target="_blank"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/_kennedyfreire/" target="_blank"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="#" target="_blank"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="kennedyfk@outlook.com" target="_blank"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/email-1f4037?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
   </div>
 </div>
 
-##
-<div align="center"> 
-  <div> 
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/telegram-28A8E9?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-GitHub" height="25" src="https://img.shields.io/badge/gitHub-EC4F33?style=for-the-badge&logo=github&logoColor=white"></a>
-  </div>
-</div>
 
 ##
 
