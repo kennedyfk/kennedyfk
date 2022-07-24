@@ -8,9 +8,9 @@
 </div>
 <div align="center"> 
   <div> 
-    <a href="https://www.linkedin.com/in/kennedyfreire/" target="_blank"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/_kennedyfreire/" target="_blank"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="#" target="_blank"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/kennedyfreire/"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a target="_blank" href="https://www.instagram.com/_kennedyfreire/"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a target="_blank" href="#"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
     <a href="kennedyfk@outlook.com" target="_blank"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/email-1f4037?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
   </div>
 </div>
