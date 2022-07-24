@@ -1,9 +1,21 @@
 ## Oi, eu sou o Kennedy Freire
 <div align="center">
   <a href="https://github.com/kennedyfk">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kennedyfk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=30,240b36,1f4037&text_color=fff&title_color=fff&custom_title=Status GitHub do Kennedy Freire&hide_border=hide"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyfk&layout=compact&langs_count=7&theme=tokyonight&bg_color=330,1f4037,240b36&text_color=fff&title_color=fff&custom_title=Linguagens mais usadas&hide_border=hide"/>
-   </a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kennedyfk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=30,240b36,1f4037&text_color=fff&title_color=fff&custom_title=Status GitHub do Kennedy Freire&hide_border=hide"/></a>
+  <a href="https://github.com/kennedyfk">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyfk&layout=compact&langs_count=7&theme=tokyonight&bg_color=330,1f4037,240b36&text_color=fff&title_color=fff&custom_title=Linguagens mais usadas&hide_border=hide"/></a>
+   
+</div>
+
+##
+<div align="center"> 
+  <div> 
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Telegram" height="25" src="https://img.shields.io/badge/email-28A8E9?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-GitHub" height="25" src="https://img.shields.io/badge/gitHub-EC4F33?style=for-the-badge&logo=github&logoColor=white"></a>
+  </div>
 </div>
 
 ##
@@ -37,8 +49,8 @@
   
   <div>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Power_Bi-F1C911?style=for-the-badge&logo=power-bi&logoColor=white"></a>
-    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/PL/SQL-880C4B?style=for-the-badge&?logo=data:https://github.com/kennedyfk/kennedyfk/img/sql&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-VBA" height="25" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Power-Bi" height="25" src="https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"></a>
+    <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-SQL" height="25" src="https://img.shields.io/badge/PL/SQL-880C4B?style=for-the-badge&?logo=data:https://github.com/kennedyfk/kennedyfk/img/sql&logoColor=white"></a>
   </div>
 </div>
