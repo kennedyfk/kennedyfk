@@ -10,9 +10,7 @@
   <div> 
   <a target="_blank" href="https://www.linkedin.com/in/kennedyfreire/"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://www.instagram.com/_kennedyfreire/"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a target="_blank" href="#"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
-  </div><br>
-  <div> 
+  <a target="_blank" href="#"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a><br>
   <a href="#" target="_blank"><img align="center" alt="Kennedy-Email" height="25" src="https://img.shields.io/badge/kennedyfk@outlook.com-1f4037?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
   </div>
 </div>
