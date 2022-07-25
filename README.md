@@ -13,7 +13,8 @@
   
 </div>
 <div align="center">
-     <a href="#" target="_blank"><img align="center" alt="Kennedy-Email" height="25" src="https://img.shields.io/badge/kennedyfk@outlook.com-1f4037?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
+  <br>
+  <a href="#" target="_blank"><img align="center" alt="Kennedy-Email" height="25" src="https://img.shields.io/badge/kennedyfk@outlook.com-1f4037?style=for-the-badge&logo=Mail.Ru&logoColor=white"></a>
 </div>
 
 
@@ -36,6 +37,7 @@
   </div>
  
   <div>
+    <br>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-excel" height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-VBA" height="25" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
     <a href="https://github.com/kennedyfk"><img align="center" alt="Kennedy-Power-Bi" height="25" src="https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"></a>
