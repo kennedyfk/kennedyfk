@@ -6,7 +6,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyfk&layout=compact&langs_count=7&theme=tokyonight&bg_color=330,1f4037,240b36&text_color=fff&title_color=fff&custom_title=Linguagens mais usadas&hide_border=hide"/></a>
    
 </div>
-<div align="center"> 
+<div align="center">
+  <br>
   <a target="_blank" href="https://www.linkedin.com/in/kennedyfreire/"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://www.instagram.com/_kennedyfreire/"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a target="_blank" href="#"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
