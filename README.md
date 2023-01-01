@@ -1,16 +1,11 @@
 ## Oi, eu sou o Kennedy Freire
-<div align="center">
-  <br>
-  <a href="https://github.com/kennedyfk">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kennedyfk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=30,240b36,1f4037&text_color=fff&title_color=fff&custom_title=Status GitHub do Kennedy Freire&hide_border=hide"/></a>
-  <a href="https://github.com/kennedyfk">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyfk&layout=compact&langs_count=7&theme=tokyonight&bg_color=330,1f4037,240b36&text_color=fff&title_color=fff&custom_title=Linguagens mais usadas&hide_border=hide"/></a>
+
    
 </div>
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/kennedyfreire/"><img align="center" alt="Kennedy-linkedin" height="25" src="https://img.shields.io/badge/LinkedIn-1f4037?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://www.instagram.com/_kennedyfreire/"><img align="center" alt="Kennedy-Instagram" height="25" src="https://img.shields.io/badge/Instagram-1f4037?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a target="_blank" href="#"><img align="center" alt="Kennedy-Figma" height="25" src="https://img.shields.io/badge/Figma-1f4037?style=for-the-badge&logo=figma&logoColor=white"></a>
+
   
 </div>
 <div align="center">
